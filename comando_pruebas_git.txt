@@ -1,1 +1,4 @@
-1 - git clone https://github.com/Enzo-Mealla/git_prueba.git (del repositoria de git) 
+1 - git clone -agregar url del repositorio- (url del repositorio de github)
+2 - git status (estado del repositorio local)(verificar si estas bien parado en el lugar del repositorio)
+3 - git add . (agrega archivos que no esta siguiendo, para luego subirlo al repositorio de github)
+4 - git commit -m (agrega comentarios)
